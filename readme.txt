@@ -29,3 +29,6 @@ Git鼓励大量使用分支：
 
 
 git push origin master
+
+
+可以用git push origin :dev 删除远程分支dev，origin和:dev之间有空格
