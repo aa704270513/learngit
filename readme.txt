@@ -30,3 +30,4 @@ git push origin master
 
 
 用git log --graph命令可以看到分支合并图。
+lalallala
