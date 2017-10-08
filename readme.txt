@@ -29,5 +29,4 @@ git push origin master
 可以用git push origin :dev 删除远程分支dev，origin和:dev之间有空格
 
 
-Creating a new branch is quick AND simple.
->>>>>>> featurel
+用git log --graph命令可以看到分支合并图。
